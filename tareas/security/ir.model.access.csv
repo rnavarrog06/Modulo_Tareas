@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_tareas_task,tareas.task,model_tareas_task,base.group_user,1,1,1,1
+access_tareas_sprint,tareas.sprint,model_tareas_sprint,base.group_user,1,1,1,1
+access_tareas_tecnologia,tareas.tecnologia,model_tareas_tecnologia,base.group_user,1,1,1,1
